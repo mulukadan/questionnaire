@@ -114,6 +114,32 @@ Examples
 - What are the skills and experiences you’re looking for in an ideal candidate?
 - What attributes does someone need to have in order to be really successful in this position?
 
+###### Stories and Examples
+  Offering a tangible story or example that highlights your skills usually goes much further in an interview than simply telling your interviewer you're good at something. (ie: Telling a story about a time you tracked down a tricky bug versus simply saying "I'm good at problem-solving!"). Have you heard of the SHARE technique? It's a useful guideline for telling stories and giving examples that demonstrate your capabilities in an interview. It works like this:
+- S: Describe a situation you faced relevant to the interviewer's question.
+- H: Outline the hinderances and challenges the situation presented.
+- A: Describe the action(s) you took in response.
+- R: Go over the results of your actions.
+- E: Then, evaluate what you've learned.
+  
+Using the SHARE outline, give an example of a time....
+
+You faced issues working with a partner or team. 
+- What did you do to resolve it? 
+- How did it work out?
+
+You became incredibly frustrated with your code. 
+- What was the issue? 
+- What did you do? 
+- Would you have done anything differently?
+
+You refactored really well. 
+- How did you do it? 
+- Why? 
+- What led you to refactor?
+
+If you come up with a story or example you feel good about; jot it down somewhere! Seriously! It's tough to come up with stories like this in an interview on the spot. Having a few tucked away to review before an interview will be a huge benefit to you later.
+
 ###### What is an annotation? What does it look like? What does it do?
   Java Annotations allow us to add metadata information into our source code, although they are not a part of the program 
 itself. Annotations were added to the java from JDK 5. Annotation has no direct effect on the operation of the code they 

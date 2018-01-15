@@ -315,3 +315,38 @@ Why do we do this?
 ###### Describe a challenge you faced in a group or partner project, and explain what you did to resolve this issue.
 
 
+###### What is the difference between an abstract class and an interface? Describe why you would use one over the other, and walk your partner through an example use case.
+
+
+###### What is polymorphism? How does it apply to programming?
+
+
+###### Describe when it would be beneficial to program one class to inherit from another class?
+
+
+###### What is the difference between inheriting an abstract class, and inheriting another complete class?
+
+
+###### Describe when a class should be abstract and when it should not be abstract.
+
+
+###### What is single table inheritance?
+
+
+###### Is single table inheritance ever required?
+
+
+###### Describe when we would use single table inheritance.
+
+
+###### Pretend we have two classes: Shepherd and Terrier. They each inherit 4 attributes from an abstract Dog class, and contain 2 attributes unique to their own class. Are these two classes good candidates for single table inheritance? Why or why not?
+
+
+###### What obligation does a developer take on by implementing an interface?
+
+
+###### Describe a challenge you faced coding during the last week. Walk your partner through the process by which you resolved it.
+
+
+###### What should we use constants for? What shouldn't we use constants for?
+

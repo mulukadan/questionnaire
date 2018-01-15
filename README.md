@@ -68,3 +68,24 @@ tracing is important for complex codes because it helps software engineers and o
 Because of the nature of modern code syntax, and the complexity of the average project, looking for bugs can be very difficult.
 Software companies use many different kinds of proactive testing to isolate parts of the software environment to find bugs or
 glitches. A stack trace is one of many tools that can be useful in comprehensive testing.
+
+###### How is testing with objects different from testing in an application where we don't create our own custom objects?
+
+
+###### What does "Encapsulation" mean, in reference to coding?
+
+
+###### What about "visibility"?
+
+
+###### Why is it best practice to declare attributes of a custom class private?
+
+
+###### Why might we opt not to include some files in our GitHub repositories by ignoring them?
+
+
+###### When would we use char - what is its corresponding wrapper class?
+
+
+###### Generally speaking, when would you use a primitive? When would you instead use its corresponding wrapper class? Why?
+

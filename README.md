@@ -89,3 +89,21 @@ glitches. A stack trace is one of many tools that can be useful in comprehensive
 
 ###### Generally speaking, when would you use a primitive? When would you instead use its corresponding wrapper class? Why?
 
+###### What is the Velocity Template Engine? What is it responsible for, and how do we integrate it into our Spark applications?
+
+
+###### What is a HashMap? How is data structured within one? How do we place data in? How do we pull data out?
+
+
+###### What does a layout.vtl file do? How does it do it?
+
+
+###### In Spark, we need to include an action attribute in our HTML <form> tags, like this: <form action = "/results">
+Why do we do this?
+
+
+###### What other area of the application does the action attribute we provide need to match up with?
+
+
+###### Why do we have to give our HTML buttons the type attribute "submit"?
+

@@ -248,3 +248,70 @@ Why do we do this?
 ###### How does Spark create unique URLs for each individual detail page using only one route?
 
 
+###### Discuss the difference between POST and GET. When do we use a POST route, when a GET?
+
+
+###### Walk through each of the following types of HTTP requests, describe what they do, and when you would use each:
+- PATCH
+- POST
+- GET
+- DELETE
+
+
+###### Walk through each of the following types of standard database relationships, describe what they do, and when you would use each:
+- One-to-One
+- One-to-Many
+- Many-to-Many
+
+
+###### In a one-to-many relationship, why does the "many" contain the ID value of the "one" it belongs to? Why not the other way around? What do you think?
+
+
+###### What is typecasting? When does it come in handy?
+
+
+###### How often should you typecast? Why?
+
+
+###### When is it appropriate to @Override built-in methods? What functionality does this offer?
+
+
+###### Why does the == operator not always recognize that two things are equal in Java? How do we work around this?
+
+
+###### Why don't the member variables of classes contain an m prefix when they're saved to databases?
+
+
+###### How can we locate a specific object or database entry in an SQL database? What does this SQL query look like? Construct one for your partner using a whiteboard, scratch paper, or directly in an Atom text editor.
+
+
+###### Why is it important that the ID ID value of objects in our application match the ID of that information's entry in our database?
+
+
+###### How can we ensure the ID value of objects in our application match the ID of that information's entry in our database?
+
+
+###### In a one-to-many relationship, how do we associate a new object with its parent object in the database?
+
+
+###### When would we use a post() route in Spark as opposed to a get() route?
+
+
+###### Why don't we use delete() or put() routes in Spark? What is limiting us?
+
+
+###### What do user stories offer? Why would a development team use them during the course of creating a new software product?
+
+
+###### What information does a user story contain? What general format does it take?
+
+
+##### Talk about a project you created recently that you're proud of. What skills does it demonstrate? What challenges did you face during the course of development?
+
+
+###### What are you looking forward to learning most?
+
+
+###### Describe a challenge you faced in a group or partner project, and explain what you did to resolve this issue.
+
+

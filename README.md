@@ -122,3 +122,15 @@ Why do we do this?
 
 ###### How does Spark know where to send information from a form?
 
+
+###### What is a static method? What about a static variable? 
+
+
+###### How do we add an object to another object? What elements of the child object's class does the parent object have access to when we do this?
+
+
+###### What is RESTful routing? What are its benefits?
+
+
+###### How does Spark create unique URLs for each individual detail page using only one route?
+

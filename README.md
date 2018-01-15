@@ -134,3 +134,43 @@ Why do we do this?
 
 ###### How does Spark create unique URLs for each individual detail page using only one route?
 
+
+###### Tell me about yourself
+
+
+###### State three adjectives that best describe you
+
+
+###### What do you know about the company?
+
+
+###### What do you find interesting about this job?
+
+
+###### What do you consider to be your weaknesses?
+
+
+###### What is your greatest achievement?
+
+
+###### Where do you see yourself in 5 years?
+
+
+###### Given a tight deadline, how would you handle the pressure?
+
+
+###### How would you handle a case of criticism?
+
+
+###### How much are you looking to get paid?
+
+
+###### Why should we hire you over someone else?
+
+
+###### What makes you the best candidate for the job?
+
+
+###### Do you have any questions for us?
+
+

@@ -107,3 +107,18 @@ Why do we do this?
 
 ###### Why do we have to give our HTML buttons the type attribute "submit"?
 
+
+###### What is a session?
+
+
+###### What is the difference between a GET and POST request?
+
+
+###### When should you use a POST request?
+
+
+###### When should you use a GET request?
+
+
+###### How does Spark know where to send information from a form?
+

@@ -401,3 +401,18 @@ Why do we do this?
 ###### What are the differences between Robolectric and Espresso? When do we use one versus the other?
 
 
+###### Describe how the ArrayAdapter works to generate items in the ListView.
+
+
+###### Why is ButterKnife worth implementing in your projects? What does it do?
+
+
+###### What is an annotation in Java?
+
+
+###### In terms of testing, what is a 'shadow'? When and why are they used?
+
+
+###### How do we interact with data in an adapter?
+
+

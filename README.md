@@ -609,3 +609,12 @@ Why do we do this?
 ###### With your partner, walk through the basic steps that occur in order to save a new piece of data to a Firebase database in an Android application.
 
 
+###### What is an intent filter? What does it do or prevent you from doing?
+
+
+###### How does a SearchView work? How is it different from other views?
+
+
+###### What other Firebase methods can you name? What do they do, and when would you use them?
+
+

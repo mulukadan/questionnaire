@@ -594,3 +594,18 @@ Why do we do this?
 ###### What is the difference between an activity and a fragment? How do you determine which to use?
 
 
+###### What is a node? What does it represent?
+
+
+###### How do we listen to a node?
+
+
+###### How do we stop listening to a node? Why would we want to do this?
+
+
+###### What is a data snapshot? What process provides a new data snapshot to an application?
+
+
+###### With your partner, walk through the basic steps that occur in order to save a new piece of data to a Firebase database in an Android application.
+
+

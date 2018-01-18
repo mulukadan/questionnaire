@@ -425,3 +425,15 @@ Why do we do this?
 ###### What is the Android Manifest? What is, placed in here?
 
 
+###### What is the 'main/ui thread' and why shouldn't we run long tasks such as a request on this thread?
+
+
+###### Why is a RecyclerView preferable to a ListView?
+
+
+###### What are the necessary components of an OkHttp request to an API? What series of events occur in a successful request?
+
+
+###### What is OAuth protocol and why would we use it?
+
+

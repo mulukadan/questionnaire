@@ -452,3 +452,45 @@ Why do we do this?
 ###### What about Parcels.unwrap();? How do the two work in conjunction?
 
 
+###### Give me an example of the project or initiative that you started on your own. It does not have to be business-oriented.
+
+
+###### What prompted you to get started?
+
+
+###### Tell me about a time you had to work on several projects at once. How did you handle the projects?
+
+
+###### Can you give an example of a time when you didn’t agree with other programmers.
+
+
+###### How did you resolve that conflict?
+
+
+###### Tell me about when you had to deal with conflict within your team?
+
+
+###### How was the conflict solved?
+
+
+###### How would you deal with it now?
+
+
+###### What was the most difficult decision you’ve ever had to make at work?
+
+
+###### How did you arrive at your decision?
+
+
+###### What was the result?
+
+
+###### Tell me about the most difficult situation you have had when leading a team. What happened and how did you handle it?
+
+
+###### Were you successful? What was the most important thing you did?
+
+
+###### What did you learn?
+
+

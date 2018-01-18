@@ -618,3 +618,21 @@ Why do we do this?
 ###### What other Firebase methods can you name? What do they do, and when would you use them?
 
 
+###### What is an interface? What functionality do they offer?
+
+
+###### How does an interface differ from a class?
+
+
+###### How do we implement interfaces?
+
+
+###### How are gestures enabled or disabled?
+
+
+###### How do we use our user interface to indicate to a user what gestures are available?
+
+
+###### How is a touchscreen gesture processed? Which portion of the application is responsible? What other components are involved?
+
+

@@ -388,3 +388,16 @@ Why do we do this?
 
 ###### How are intents used in an Android application?
 
+
+###### What is the difference between the five different log types? (v, d, i, w, e)
+
+
+###### What is a breakpoint?
+
+
+###### What are the two general categories testing in Android may be broken down into? What are the differences between them? Similarities?
+
+
+###### What are the differences between Robolectric and Espresso? When do we use one versus the other?
+
+

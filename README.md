@@ -516,3 +516,14 @@ Why do we do this?
 ###### What about Parcels.unwrap();? How do the two work in conjunction?
 
 
+###### What is the difference between implicit and explicit intents? Provide an example of each.
+
+
+###### What arguments do we need to provide when creating an explicit intent?
+
+
+###### What about when we create an implicit intent?
+
+
+###### Why do we need to resize images? What errors could occur if we don't?
+

@@ -49,6 +49,18 @@ Example
 Examples
   Recently I was asked to implement a new system to reduce our debtors days. I analyzed the problems with the current system, got input from all the stakeholders, and developed a faster way of getting the accounts out and monitoring follow up. Our debtors days reduced significantly and we are currently on target for collections.I was part of the rowing team that recently won the championships. It was a particularly satisfying win as we had trained very hard, requiring a lot of discipline and perseverance, to come up from the bottom of the league. We also really had to work together as a team and keep each other motivated.
 
+###### Stories and Examples
+  Offering a tangible story or example that highlights your skills usually goes much further in an interview than simply telling your interviewer you're good at something. (ie: Telling a story about a time you tracked down a tricky bug versus simply saying "I'm good at problem-solving!").
+  Have you heard of the SHARE technique? It's a useful guideline for telling stories and giving examples that demonstrate your capabilities in an interview. It works like this:
+- S: Describe a situation you faced relevant to the interviewer's question.
+- H: Outline the hinderances and challenges the situation presented.
+- A: Describe the action(s) you took in response.
+- R: Go over the results of your actions.
+- E: Then, evaluate what you've learned.
+  Using the SHARE outline, give an example of a time....
+Made a group more efficient, productive, or motivated in tackling a challenge. What was the situation? How did you rally your group members? What was the result? You made a really tough decision relating to work (of any kind, not just development) or a project. What was it? How did you make your decision? What was the outcome? You tackled an especially challenging assignment or project. What was it? How did you approach it? What happened?
+  If you come up with a story or example you feel good about; jot it down somewhere! Seriously! It's tough to come up with stories like this in an interview on the spot. Having a few tucked away to review before an interview will be a huge benefit to you later.
+
 ###### Where do you see yourself in 5 years?
   The interviewer wants to understand more about your career goals and how this position would fit (Links to an external site.)Links to an external site. into your grand plan. They care about your career goals because they want to hire someone who is motivated, proactive, and likely to stick around and work hard if hired. To answer this question, Keep your answer fairly general and truthful, but broad enough that it doesn’t raise doubts about whether you would be a good fit for this position at this organization. Stress your interest in a long-term career at the company because the interviewer wants to know that you’re ready to settle in and grow with the firm. Demonstrate your enthusiasm for the job as an exciting next step for you. Most importantly, make it clear that you are motivated to take on this opportunity right now.
 Example

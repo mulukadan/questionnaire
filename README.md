@@ -376,3 +376,15 @@ Why do we do this?
 
 ###### What should we use constants for? What shouldn't we use constants for?
 
+
+###### How does XML differ from HTML? How are they alike?
+
+
+###### What's the difference between sp and dp? How do you decide which to use?
+
+
+###### When would you use a toast?
+
+
+###### How are intents used in an Android application?
+

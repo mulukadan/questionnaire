@@ -284,6 +284,54 @@ I am a performer of tasks. As a new employee, I understand that many of my dutie
   I then assigned each person to do more research on how we might implement one of the ideas. First of all, the team responded very positively to this approach. They loved the idea of being empowered to help find a solution. Instead of complaining, they channeled their energy in a more productive way once they knew that they would be heard. Right off the bat, we came up with two ideas that could be implemented quickly and save us a lot of time. One idea was to eliminate daily group meetings to weekly stand ups. This freed up 6 hours each week spent on discussing issues to do with the project.
   The other idea was to set time aside and work together after school in the evening for an hour or two. We also decided to incorporate brainstorming and idea evaluation into our weekly standups. We became more efficient and the morale increased.
 
+###### Technical Interview Questions
+  A good technical interview should be a conversation. It should not be a test of knowledge. A technical interview is best used when it evaluates how a candidate thinks and works, not what they know. The candidate’s resume and the non-whiteboard part of the interview should be sufficient to determine if they have experience with the required languages, frameworks, and concepts. As an interviewee, if you’re asked to whiteboard, that’s great news – the interviewer knows you have the skills to work through a difficult question, and wants to see how you do so.
+
+###### During the technical mock interview session you will be asked to
+- Solve coding and pseudo-coding problems in front of the Technical Mentor and the Professional Development Mentor.
+- Answer a technical question out loud
+- Whiteboard a solution to a coding problem - that is, sketching out a visual or pseudo-code solution to a problem, and       talking out loud about your thought process as you go.
+- Whiteboarding
+
+  Some interviews will involve answering technical questions out loud, or "whiteboarding" a solution to a coding problem. This means that you will be sketching out a visual and/or pseudo-code solution to a problem, and talking out loud about your thought process as you go. This is one of the most common interview formats, and where you should spend a good amount of extra time preparing. 
+
+###### When answering these types of questions, make sure that you:
+  Ask clarifying questions. Often, your interviewer will intentionally be vague about something or leave out information. Don't be shy about asking for clarification or more information. Talk out loud. Even when you have no idea where to go, do not just stand there silently. The interviewer wants to hear your thought process, even if it is just you coming up with ideas and then saying why they will not work or are wrong. You should strive to talk constantly.
+  Admit when you do not know something. If you try to talk your way through a question that you actually do not have an answer to, you will most likely still not get the answer. Just say "I do not know." However, if you can, keep going: "I do not know, but here is how I might figure it out." Then, go forward with the interviewer. How would you go about finding out? What terms would you search for? Where have you seen similar behavior? Keep communicating and showing how you think.
+Use the programming language you're most familiar with. It doesn't matter if the interviewer is unfamiliar with that language. They can probably figure it out. They can consult colleagues after with any questions.
+So, what are some good practices for whiteboarding? 
+  First, have the interviewer repeat the question. Listen carefully and write down a list of specs on the whiteboard. Again, you’re showing how you work. Working from a list of specs demonstrates your habits as a good, professional developer. Once the specs are listed, read them back and start looking for keywords and easy requirements that will help you answer the question.
+- Are you writing a function? Get the word function and some curly braces up on the board.
+- Does the function accept any kind of argument? Put any arguments in the function's parentheses.
+- Does the function return a value? Put a return statement at the end of the function.
+- The purpose of all this setup is to give ourselves a familiar work space. It also gets some information on the board, and   can get you thinking. 
+- Are you stuck, or do you need to test your algorithm? One approach is to draw a box on the whiteboard and list your 
+  variables with their initial values. This box represents machine memory during the process. Next, pass some test values 
+  into your function and talk through the behavior with the interviewer while changing the values within the box. This live 
+  testing is another way to get you thinking and unstuck.
+
+###### Open-Ended Technical Questions
+  Technical questions that may not require you to code at all are often open-ended discussion questions, which are designed to give you a chance to showcase your knowledge. It is important to take advantage of these opportunities, as you have the freedom to highlight your strongest area of knowledge.
+
+###### Here are some sample interview questions: 
+- What is the difference between POST request and a GET request?
+- What is Git and why would you use it?
+- What happens when a user logs into a website?
+- What is a class?
+- What is an object?
+- What is unit testing?
+- What happens when a user types in a URL?
+- What is a foreign key?
+- What is REST?
+- Show me some code you wrote that you're especially proud of.
+- Talk about a time that you solved a difficult coding problem.
+- What is an array?
+- Explain MVC.
+- What is a join table in SQL?
+- What is floating in CSS?
+- What are media queries and how do you use them?
+- You've been working on a site for a couple months here at our company. You come in one day and the site is down. What do     you do?
+
 ###### How is testing with objects different from testing in an application where we don't create our own custom objects?
 
 

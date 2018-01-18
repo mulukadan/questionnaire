@@ -437,3 +437,18 @@ Why do we do this?
 ###### What is OAuth protocol and why would we use it?
 
 
+###### What is a fragment and why would we use one?
+
+
+###### What is the difference between a fragment and an activity?
+
+
+###### What is a Parcelable? What benefits does it offer? What additional setup does it require?
+
+
+###### What does Parcels.wrap(): do, and when is it used?
+
+
+###### What about Parcels.unwrap();? How do the two work in conjunction?
+
+

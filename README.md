@@ -527,3 +527,58 @@ Why do we do this?
 
 ###### Why do we need to resize images? What errors could occur if we don't?
 
+
+###### What do the terms threading and multi-threading mean in an Android application?
+
+
+###### What thread can we alter the user interface from?
+
+
+###### How is OAuth protocol different from a simple API request that returns a JSON response? What extra steps take place?
+
+
+###### What is the benefit of using OAuth protocol? When might you use it?
+
+
+###### What comes first in the Android Activity lifecycle: onCreate() or onStart()? What is each used for?
+
+
+###### What are the necessary components of an OkHttp request to an API? What series of events occur in a successful request?
+
+
+###### Why is a RecyclerView preferable to a ListView?
+
+
+###### What is a fragment? What benefit does it offer?
+
+
+###### How does Android know which fragments to insert where?
+
+
+###### What does Parcels.wrap(); do, and when is it used?
+
+
+###### What about Parcels.unwrap();? How do the two work in conjunction?
+
+
+###### What is a Parcelable? What benefits does it offer? What additional setup does it require?
+
+
+###### What is the difference between implicit and explicit intents? Provide an example of each.
+
+
+###### What arguments do we need to provide when creating an explicit intent?
+
+
+###### What about when we create an implicit intent?
+
+
+###### Why do we need to resize images? What errors could occur if we don't?
+
+
+###### What is serializing data? What does it do? Why would we serialize data?
+
+
+###### What is the difference between an activity and a fragment? How do you determine which to use?
+
+

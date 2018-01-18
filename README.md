@@ -422,6 +422,6 @@ Why do we do this?
 ###### What is a hierarchical parent? Where do we denote an activity's parent? What does creating this relationship allow us to do?
 
 
-###### What is the Android Manifest? What is placed in here?
+###### What is the Android Manifest? What is, placed in here?
 
 

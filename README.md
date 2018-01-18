@@ -208,6 +208,70 @@ Because of the nature of modern code syntax, and the complexity of the average p
 Software companies use many different kinds of proactive testing to isolate parts of the software environment to find bugs or
 glitches. A stack trace is one of many tools that can be useful in comprehensive testing.
 
+###### BEHAVIOURAL INTERVIEW QUESTIONS
+  Behavioural interview questions are based on the fact that looking at a candidate’s past behaviour is the best way to predict their future performance. The golden rule when you’re answering behavioural interview questions is to adhere to what’s called the CAR principle: Context, Action, Result.
+  Context is about describing a situation and setting the scene for a relevant example. The key here is to choose your example well, one that clearly demonstrates the quality or skill the employer is asking about.
+Action is about explaining what action you took. Be really specific rather than making vague statements and outline your steps and rationale. Result is about detailing the outcome of your action. Offer specific facts relating to the result. For instance, quote figures and statistics that back up your declaration.
+
+###### What has been the most stressful situation you have ever found yourself in? How did you handle it?
+  The best way to answer this question is to give an example of how you have handled stress in a most recent situation. That way, the interviewer can get a clear picture of how well you work in stressful situations. Tailor your answer to be related to either programming or coding. Avoid mentioning a time when you put yourself in a needlessly stressful situation. For example, do not share a story about a time when you were stressed because you procrastinated and had to finish a project quickly. Focus on a time when you were given a difficult task or multiple assignments, and you rose to the occasion.
+###### Example
+  Pressure is very important to me. Good pressure, such as having a lot of assignments to work on, or an upcoming deadline, helps me to stay motivated and productive. Of course, there are times when too much pressure can lead to stress. Through my experience, I have learned how to balance multiple projects and meeting deadlines, which prevents me from feeling stressed often. For example, I once had three large projects due in the same week, which was a lot of pressure. However, because I created a schedule that detailed how I would break down each project into small assignments, I completed all three projects ahead of time and avoided unnecessary stress.
+
+###### Give me an example of the project or initiative that you started on your own. It does not have to be business-oriented. What prompted you to get started?
+  By asking this question, the interviewer wants to find out whether you are capable of coming up with new ideas and thinking creatively in order to solve problems. You can take your example from your work experience, a group project or a skills related extracurricular activity. It is important to remember that in this case you are essentially telling a story and your answer needs to have a well considered structure. Make sure to cover the following when answering this prompt:
+- Where you were at the time
+- What the issue or problem was
+- How this issue/problem had a negative impact on the business,employees, customers etc
+- What you suggested/implemented as a solution to the problem
+- How this had a positive impact on the business, people, etc
+###### Example
+  In a college technical festival, there was a problem with the Learn network of the college where the server was not functioning well. This network was going to be used to host various gaming events in the college fest. I took an initiative and got a few of my friends with me and replaced the complete connection network with another server. We successfully managed to shift to a new server in less than an hour and the events were conducted successfully.
+
+###### Describe the project or situation that best demonstrates your analytical skills. What was your role?
+  The trick to this question is to not just talk about your overall experience and training that led to your having strong analytical abilities, but to give an example of a specific situation where your analytical abilities came into application. The strongest examples are those that describe a situation related to the work done in the company you have applied to, since your answer to this question shows that you can solve the problems that they are facing. 
+  If you are asked this question, it is because analytical ability is valued highly in the company you are applying to. Once you have decided which situation to answer with, don’t just state it. Give an idea of the significance of the situation and don’t miss important details. When the situation has been fully described.  Whatever you did will have a full context. After explaining the actions you took, then you can move on to the consequences, and why you think you got the result you did.
+###### Example
+  During my University Programming course, we were assigned a group project to do marketing research for a local tech companies. After we collected all of the data, we had to analyze the data in a meaningful way for the business and report the results. It turned out that I had the strongest analytical abilities in the group, so I led the rest of the group in analyzing the data. Because of my analytical skills, we found that a local tech company had been targeting the wrong market all along. We set up a meeting with the CEO of the tech company and were able to show the owner our findings and  the market segment that the business should be targeting.
+
+###### Tell me about a time you had to work on several projects at once. How did you handle the projects?
+  By asking this question the interviewer wants to see that you are going to be able to cope with working on multiple projects at the same time. There's only one correct answer to this question and it's a resounding 'Yes'!. Then go on and backup your 'Yes' with some evidence, preferably an example.
+###### Example
+  Yes.  I've had plenty of experience handling a very full workload and dealing with numerous different projects simultaneously.  When starting out in my current job at Craft Silicon, I came in to a situation where the team was behind schedule on a number of projects and also had several new projects which needed to be started. I certainly had my hands very full indeed; it was quite a juggling act! I persuaded the CTO to allocate sufficient resources so we could complete the overdue projects without suffering further financial penalties and I simultaneously got us going on the new range of projects as quickly as possible so as to not disappoint the clients. I understand the importance of adhering to deadlines, so if I saw that I absolutely could not accomplish the task in time, I would ask for an extension.
+###### Example 2
+  At Moringa School we usually had a lot of projects to work on weekly and at the same time finish up class work by the end of the week. Even if my tasks at times seemed unachievable, I would buckle down and figure out the best approach to completing the tasks. I would start by organizing the tasks from most important to least, and then I would begin working on the most important task. I would maintain a positive outlook and utilize my organizational skills to develop a plan of action.
+
+###### Tell me about a situation in which you have had to adjust to changes over which you had no control. How did you handle it?
+  The interviewer is interested in knowing how you are able to perform in a workplace where you are not the one who is ‘making the calls’. The typical workplace environment involves a tiered structure where there are those who make the decisions and those who perform the work. An entry level position most often assumes the role of the latter.
+###### Example
+  I am a performer of tasks. As a new employee, I understand that many of my duties will be directed by those above me. These will undoubtedly involve changes, and as long as I understand how the changes are related to the betterment of the company I am fully ‘on board’.
+  I once worked for a corporation where one of my duties was to prepare the annual report. As a result of input from the overseeing board and members, the format for that report was changed significantly. Although this meant that I had to relearn the report-writing process, with my understanding that this change would mean that the report was more accessible and easy to read, I had no problem with the demands of that change.
+###### Example 2
+I am a performer of tasks. As a new employee, I understand that many of my duties will be directed by those above me. These will undoubtedly involve changes, and as long as I understand how the changes are related to the betterment of the company I am fully ‘on board’. At Moringa School we worked on a group project during the project period. We were to present this project as a group every Friday of the week for one month. During the group presentation we would talk about the project and what we had worked on so far, feedback was given by our instructors and we had to make a lot of changes and add a lot of things before the next presentation which was in just a week's time. This meant that we had to make a lot of changes with every feedback session but at the end of the one month we had the best projects to present on career day to potential employers.
+
+###### Have you ever worked in a team? If yes, give an example of a situation where you had to compromise on decision making.
+  By asking this question the interviewer wants to know if you're a team player and capable of resolving minor issues that may arise. Workplace conflicts may happen every now and then and that's okay. The key is handling them correctly and showing the interviewer you can move forward. Answer this question in a way that show  you can overcome small conflicts without involving your boss or interrupting the flow of the workplace. Your answer should reflect your professionalism and your ability to maintain your temper.
+###### Example
+  Last year I attended a coding bootcamp and one of the requirements for graduation was to build a group project. We had to decide on what to build and the my fellow group members chose to build something simple. I on the other hand wanted to build something complex so that our group will have something unique and better than the other groups. My idea of building something complex was not welcomed by the rest of the group member either way we had to decide on one project. I requested that we sit and discuss each project idea, its advantages and disadvantages in terms of time taken to build the project and the project functionality. We finally agreed on building a simple application rather than a complex one that would take up a lot of time and resources since at the end of the day our goal was to have a completed and functional application in order to graduate.
+
+###### Can you give an example of a time when you didn’t agree with other programmers. How did you resolve that conflict?Tell me about when you had to deal with conflict within your team? How was the conflict solved? How would you deal with it now?
+  Conflict questions are common because everybody wants to hire a good team player therefore the interviewer wants to get a sense of how you will respond (Links to an external site.)Links to an external site. to conflict. Answer this question by briefly describing the context in which the conflict but do not get too caught up in unnecessary details. Lastly talk about the key actions that you took. In the case of a conflict story, the focus should be on how you resolved the disagreement in a professional and productive way.
+###### Example
+  I was managing the creation of an application in school and we were on a very tight deadline because the presentation day was a day away. I was in charge of delivering on time and I had to manage all team members. The developer who was building the front end part of the application was very talented but unfortunately missed a deadline that I had assigned. When I approached him about it, he blew up at me. I was taken aback by his response, but I remained calm. I acknowledged that the deadline was hours away and explained again the reasoning and the importance of ready in time for the presentation. He relaxed a little when he saw that I wasn’t attacking him. He told me about all of his other class projects and how overwhelmed he was. I asked him if there was any way that I could help him come up with a solution. Eventually, we agreed that it would help if I would him in completing the front end part since I was conversant with that area also. This helped take some of the pressure off of him.
+
+###### What was the most difficult decision you’ve ever had to make at work? How did you arrive at your decision?What was the result?
+  When an interviewer asks this question, she or he wants to know how you’d handle challenging and stressful situations and how strong your critical thinking skills. Approach this question by describing how you effectively approached the challenge, how you weighed the options and how you reached your decision. Whatever example you use, make sure it highlights a strength you would bring to the role.
+###### Example
+  In my previous position, I was in charge of selecting vendors to print our promotional materials. We have a long time vendor we have been working with for over a decade. However, for one of our biggest print jobs of the year, another vendor came in with a lower bid.” I did not want to take the work away from a vendor with whom we did so much business with, but I couldn’t justify picking them out of loyalty if someone else was doing the same job for less money. So I told the old vendor frankly about the other bid to hear what they had to say, and I also solicited references from the new vendor to see if their work matched that of what we had been getting.”Our long-time vendor was able to bring down their bid. They actually did the job for less than the new vendor would have, so we ended up saving some money.”
+
+###### Tell me about the most difficult situation you have had when leading a team. What happened and how did you handle it?Were you successful? What was the most important thing you did?
+  This question helps the interviewer to find out if you have true leadership potential. Briefly describe the project or situation giving just enough history and/or background to provide context. Talk about the key actions that you took. When telling a leadership story, make sure that you convey specifically how you stepped up as a leader. What actions did you take and why? How did your actions demonstrate leadership? Finally, Wrap up your example by describing the positive outcome(s) of your action.
+###### Example
+  When I was a student at Moringa School we had to go through a period whereby we built projects in groups for presentation during career day. We were a team of five and two of our team members laptop's got stolen on their way home from school therefore they did not attend school for two days. The team of three that remained had to absorb the duties of the two were absent. As a result, people were overworked and morale suffered.  At the same time, more mistakes were being made because attention was so scattered.
+  As the team leader, it was my job to get performance back on track. I scheduled a meeting of the full team to discuss strategies. I communicated my appreciation for all of their hard work during a challenging time for the company and asked for their assistance in identifying ways for us all to be more efficient –including me! I then made it clear that this was a brainstorming meeting to come up with options that no idea was stupid and that it was a safe environment for making suggestions. We spent an hour capturing ideas on a white board, then voted on the five with the most potential.
+  I then assigned each person to do more research on how we might implement one of the ideas. First of all, the team responded very positively to this approach. They loved the idea of being empowered to help find a solution. Instead of complaining, they channeled their energy in a more productive way once they knew that they would be heard. Right off the bat, we came up with two ideas that could be implemented quickly and save us a lot of time. One idea was to eliminate daily group meetings to weekly stand ups. This freed up 6 hours each week spent on discussing issues to do with the project.
+  The other idea was to set time aside and work together after school in the evening for an hour or two. We also decided to incorporate brainstorming and idea evaluation into our weekly standups. We became more efficient and the morale increased.
+
 ###### How is testing with objects different from testing in an application where we don't create our own custom objects?
 
 
@@ -450,47 +514,5 @@ Why do we do this?
 
 
 ###### What about Parcels.unwrap();? How do the two work in conjunction?
-
-
-###### Give me an example of the project or initiative that you started on your own. It does not have to be business-oriented.
-
-
-###### What prompted you to get started?
-
-
-###### Tell me about a time you had to work on several projects at once. How did you handle the projects?
-
-
-###### Can you give an example of a time when you didn’t agree with other programmers.
-
-
-###### How did you resolve that conflict?
-
-
-###### Tell me about when you had to deal with conflict within your team?
-
-
-###### How was the conflict solved?
-
-
-###### How would you deal with it now?
-
-
-###### What was the most difficult decision you’ve ever had to make at work?
-
-
-###### How did you arrive at your decision?
-
-
-###### What was the result?
-
-
-###### Tell me about the most difficult situation you have had when leading a team. What happened and how did you handle it?
-
-
-###### Were you successful? What was the most important thing you did?
-
-
-###### What did you learn?
 
 
